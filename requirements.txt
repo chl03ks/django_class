@@ -3,5 +3,7 @@ djangorestframework
 markdown
 django-filter  
 ipython
+django-cors-headers
+
 
 
