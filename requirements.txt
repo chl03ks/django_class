@@ -6,4 +6,3 @@ ipython
 django-cors-headers
 
 
-
