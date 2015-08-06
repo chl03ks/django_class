@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
+local_settings.py
 
 # C extensions
 *.so
@@ -49,7 +50,7 @@ coverage.xml
 
 # Django stuff:
 *.log
-local_settings.py
+
 
 # Sphinx documentation
 docs/_build/
