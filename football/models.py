@@ -18,7 +18,6 @@ class Team(models.Model):
     name = models.CharField(max_length=200)
     coach = models.ForeignKey(Coach)
 
-
     def __unicode__(self):
         return self.name
 

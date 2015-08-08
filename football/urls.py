@@ -9,7 +9,6 @@ router.register(r'coachs', CoachViewSet)
 router.register(r'players', PlayerViewSet)
 router.register(r'teams', TeamViewSet)
 
-
 urlpatterns = [
     url(r'^', include(router.urls)),
 ]

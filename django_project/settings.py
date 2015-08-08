@@ -39,7 +39,8 @@ INSTALLED_APPS = (
     'rest_framework',
     'corsheaders',
     'soccer',
-    'football'
+    'football',
+    'tournament'
 )
 
 MIDDLEWARE_CLASSES = (
